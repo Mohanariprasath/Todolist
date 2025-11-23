@@ -10,6 +10,6 @@ FEATURES:Add new tasks
 
   3. Delete tasks
 
-  4. Persistent storage (local or database)
+  4. Local Storage
 
   5. Responsive and easy-to-use design
