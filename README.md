@@ -15,3 +15,9 @@ FEATURES:Add new tasks
   5. Responsive and easy-to-use design
 
 TECHNOLOGIES USED:
+
+  Frontend: HTML, CSS, JavaScript
+
+  Database: Local Storage
+  
+  Tools: VS Code
