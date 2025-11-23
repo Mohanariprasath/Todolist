@@ -13,3 +13,5 @@ FEATURES:Add new tasks
   4. Local Storage
 
   5. Responsive and easy-to-use design
+
+TECHNOLOGIES USED:
